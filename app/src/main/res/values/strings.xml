@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">EncargaloFinanzas</string>
+    <string name="txt_nombreActivoDiferido_String">Nombre de activo diferido</string>
+    <string name="txt_pagoAnticipado_String">Pago anticipado</string>
+    <string name="txt_Vigencia_String">Vigencia en años</string>
+    <string name="txt_Anual_String">Anual</string>
+    <string name="txt_Mensual_String">Mensual</string>
+
+    <string name="txt_nombre_activoFijo_String">Nombre de activo fijo</string>
+    <string name="txt_nombre_unidades_String">Unidades</string>
+    <string name="txt_nombre_valorUnitario_String">Valor  unitario</string>
+    <string name="txt_nombre_total_String">Total</string>
+    <string name="txt_nombre_vidaUtil_String">Vida útil</string>
+    <string name="txt_nombre_PagoAnticipado_String">Pago anticipado</string>
+
+    <string name="txt_Volver_Boton">Volver</string>
+
+    <string name="txt_Limpiar_Boton">Limpiar</string>
+
+
+    <string name="txt_btn_totalNoNecesario">Total necesarios</string>
+    <string name="txt_btn_totalNecesario">Total no necesarios</string>
+    <string name="txt0_btn_Limpiar">Limpiar</string>
+    <string name="title_activity_productos">Productos</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_navigation">navigation</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+
+</resources>
