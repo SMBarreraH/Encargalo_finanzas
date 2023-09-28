@@ -1,4 +1,4 @@
-package com.example.encargalofinanzas;
+package com.example.encargalofinanzas.ui.flujo;
 
 import android.os.Bundle;
 import android.widget.TableLayout;
@@ -7,6 +7,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.FragmentPagerAdapter;
 import androidx.viewpager.widget.ViewPager;
 
+import com.example.encargalofinanzas.R;
 import com.google.android.material.tabs.TabLayout;
 
 public class productos extends AppCompatActivity {

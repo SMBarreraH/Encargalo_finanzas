@@ -1,4 +1,4 @@
-package com.example.encargalofinanzas;
+package com.example.encargalofinanzas.ui.flujo;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -7,6 +7,8 @@ import android.view.View;
 import android.widget.EditText;
 import android.widget.TableLayout;
 import android.widget.TextView;
+
+import com.example.encargalofinanzas.R;
 
 import java.util.ArrayList;
 

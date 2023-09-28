@@ -1,4 +1,4 @@
-package com.example.encargalofinanzas;
+package com.example.encargalofinanzas.ui.flujo;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;

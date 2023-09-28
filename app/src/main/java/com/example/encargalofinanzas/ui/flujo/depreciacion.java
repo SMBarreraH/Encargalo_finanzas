@@ -1,17 +1,14 @@
-package com.example.encargalofinanzas;
+package com.example.encargalofinanzas.ui.flujo;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.content.Context;
-import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.EditText;
 import android.widget.TableLayout;
 import android.widget.TextView;
 
-import org.json.JSONException;
-import org.json.JSONObject;
+import com.example.encargalofinanzas.R;
 
 import java.util.ArrayList;
 

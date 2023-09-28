@@ -1,4 +1,4 @@
-package com.example.encargalofinanzas;
+package com.example.encargalofinanzas.ui.flujo;
 
 import android.content.Context;
 import android.view.Gravity;

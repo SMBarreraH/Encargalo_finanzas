@@ -1,4 +1,4 @@
-package com.example.encargalofinanzas;
+package com.example.encargalofinanzas.ui.flujo;
 
 import android.os.Bundle;
 
@@ -8,12 +8,18 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-public class fragm_materiaPrima extends Fragment {
+import com.example.encargalofinanzas.R;
+
+
+public class manufactura extends Fragment {
+
+
+
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_fragm_materia_prima, container, false);
+        return inflater.inflate(R.layout.fragment_manufactura, container, false);
     }
 }

@@ -22,4 +22,50 @@
         android:name="com.example.encargalofinanzas.ui.slideshow.SlideshowFragment"
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/nav_plantilla_financiera"
+        android:name="com.example.encargalofinanzas.ui.flujo.plantilla_financiera"
+        android:label="PLANTILLA FINANCIERA"
+        tools:layout="@layout/activity_plantilla_financiera" >
+        <action
+            android:id="@+id/action_nav_mi_flujo_to_registrar_negocio"
+            app:destination="@id/nav_registrar_negocio" />
+        <action
+            android:id="@+id/action_nav_mi_flujo_to_costos"
+            app:destination="@id/nav_costos" />
+        <action
+            android:id="@+id/action_nav_mi_flujo_to_manufactura"
+            app:destination="@id/nav_manufactura" />
+        <action
+            android:id="@+id/action_nav_mi_flujo_to_personal"
+            app:destination="@id/nav_personal" />
+    </fragment>
+    <fragment
+        android:id="@+id/nav_registrar_negocio"
+        android:name="com.example.encargalofinanzas.ui.flujo.registrar_negocio"
+        android:label="REGISTRAR NEGOCIO"
+        tools:layout="@layout/activity_registrar_negocio" >
+        <action
+            android:id="@+id/action_nav_mi_flujo_to_plantilla_financiera"
+            app:destination="@id/nav_plantilla_financiera" />
+    </fragment>
+    <fragment
+        android:id="@+id/nav_costos"
+        android:name="com.example.encargalofinanzas.ui.flujo.costos"
+        android:label="COSTOS"
+        tools:layout="@layout/activity_costos" >
+    </fragment>
+    <fragment
+        android:id="@+id/nav_manufactura"
+        android:name="com.example.encargalofinanzas.ui.flujo.manufactura"
+        android:label="MANUFACTURA"
+        tools:layout="@layout/fragment_manufactura" >
+    </fragment>
+    <fragment
+        android:id="@+id/nav_personal"
+        android:name="com.example.encargalofinanzas.ui.flujo.personal"
+        android:label="PERSONAL"
+        tools:layout="@layout/fragment_personal" >
+    </fragment>
+
 </navigation>

@@ -13,15 +13,15 @@
         android:theme="@style/Theme.EncargaloFinanzas"
         tools:targetApi="31">
         <activity
-            android:name=".navigation"
+            android:name=".ui.flujo.navigation"
             android:exported="false"
             android:label="@string/title_activity_navigation"
             android:theme="@style/Theme.EncargaloFinanzas.NoActionBar" />
         <activity
-            android:name=".registrar_negocio"
+            android:name=".ui.flujo.registrar_negocio"
             android:exported="false" />
         <activity
-            android:name=".productos"
+            android:name=".ui.flujo.productos"
             android:exported="false" />
         <activity
             android:name=".Productos"
@@ -29,22 +29,22 @@
             android:label="@string/title_activity_productos"
             android:theme="@style/Theme.EncargaloFinanzas.NoActionBar" />
         <activity
-            android:name=".gastos_indirectos"
+            android:name=".ui.flujo.gastos_indirectos"
             android:exported="false" />
         <activity
-            android:name=".costos"
+            android:name=".ui.flujo.costos"
             android:exported="false" />
         <activity
-            android:name=".amortizacion"
+            android:name=".ui.flujo.amortizacion"
             android:exported="false" />
         <activity
-            android:name=".depreciacion"
+            android:name=".ui.flujo.depreciacion"
             android:exported="false" />
         <activity
-            android:name=".plantilla_financiera"
+            android:name=".ui.flujo.plantilla_financiera"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name=".ui.flujo.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
