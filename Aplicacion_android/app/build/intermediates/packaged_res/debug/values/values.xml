@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="blue_600">#0366AA</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="appbar_padding">16dp</dimen>
+    <dimen name="appbar_padding_top">8dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <string name="app_name">EncargaloFinanzas</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="title_activity_productos">Productos</string>
+    <string name="txt0_btn_Limpiar">Limpiar</string>
+    <string name="txt_Anual_String">Anual</string>
+    <string name="txt_Limpiar_Boton">Limpiar</string>
+    <string name="txt_Mensual_String">Mensual</string>
+    <string name="txt_Vigencia_String">Vigencia en años</string>
+    <string name="txt_Volver_Boton">Volver</string>
+    <string name="txt_btn_totalNecesario">Total no necesarios</string>
+    <string name="txt_btn_totalNoNecesario">Total necesarios</string>
+    <string name="txt_nombreActivoDiferido_String">Nombre de activo diferido</string>
+    <string name="txt_nombre_PagoAnticipado_String">Pago anticipado</string>
+    <string name="txt_nombre_activoFijo_String">Nombre de activo fijo</string>
+    <string name="txt_nombre_total_String">Total</string>
+    <string name="txt_nombre_unidades_String">Unidades</string>
+    <string name="txt_nombre_valorUnitario_String">Valor  unitario</string>
+    <string name="txt_nombre_vidaUtil_String">Vida útil</string>
+    <string name="txt_pagoAnticipado_String">Pago anticipado</string>
+    <style name="Base.Theme.EncargaloFinanzas" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.EncargaloFinanzas" parent="Base.Theme.EncargaloFinanzas"/>
+    <style name="Theme.EncargaloFinanzas.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="Theme.EncargaloFinanzas.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.EncargaloFinanzas.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+</resources>

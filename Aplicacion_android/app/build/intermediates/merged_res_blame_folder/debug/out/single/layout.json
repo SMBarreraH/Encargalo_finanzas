@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-mergeDebugResources-35:\\layout\\activity_amortizacion.xml",
+        "source": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-main-38:\\layout\\activity_amortizacion.xml"
+    },
+    {
+        "merged": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-mergeDebugResources-35:\\layout\\activity_gastos_indirectos.xml",
+        "source": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-main-38:\\layout\\activity_gastos_indirectos.xml"
+    },
+    {
+        "merged": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-mergeDebugResources-35:\\layout\\activity_registrar_negocio.xml",
+        "source": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-main-38:\\layout\\activity_registrar_negocio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-mergeDebugResources-35:\\layout\\activity_gastospersonales.xml",
+        "source": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-main-38:\\layout\\activity_gastospersonales.xml"
+    },
+    {
+        "merged": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-mergeDebugResources-35:\\layout\\activity_costos.xml",
+        "source": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-main-38:\\layout\\activity_costos.xml"
+    },
+    {
+        "merged": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-mergeDebugResources-35:\\layout\\activity_personal.xml",
+        "source": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-main-38:\\layout\\activity_personal.xml"
+    },
+    {
+        "merged": "com.example.encargalofinanzas.app-mergeDebugResources-35:/layout/activity_gastos_indirectos.xml",
+        "source": "com.example.encargalofinanzas.app-main-38:/layout/activity_gastos_indirectos.xml"
+    },
+    {
+        "merged": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-mergeDebugResources-35:\\layout\\activity_depreciacion.xml",
+        "source": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-main-38:\\layout\\activity_depreciacion.xml"
+    },
+    {
+        "merged": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-mergeDebugResources-35:\\layout\\fragment_mano_de_obra.xml",
+        "source": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-main-38:\\layout\\fragment_mano_de_obra.xml"
+    },
+    {
+        "merged": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-mergeDebugResources-35:\\layout\\activity_productos.xml",
+        "source": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-main-38:\\layout\\activity_productos.xml"
+    },
+    {
+        "merged": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-mergeDebugResources-35:\\layout\\activity_manufactura.xml",
+        "source": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-main-38:\\layout\\activity_manufactura.xml"
+    },
+    {
+        "merged": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-mergeDebugResources-35:\\layout\\fragment_fragm_materia_prima.xml",
+        "source": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-main-38:\\layout\\fragment_fragm_materia_prima.xml"
+    },
+    {
+        "merged": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-mergeDebugResources-35:\\layout\\activity_plantilla_financiera.xml",
+        "source": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-main-38:\\layout\\activity_plantilla_financiera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-mergeDebugResources-35:\\layout\\activity_gastos_personales.xml",
+        "source": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-main-38:\\layout\\activity_gastos_personales.xml"
+    },
+    {
+        "merged": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-mergeDebugResources-35:\\layout\\fragment_listado_productos.xml",
+        "source": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-main-38:\\layout\\fragment_listado_productos.xml"
+    },
+    {
+        "merged": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-mergeDebugResources-35:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-main-38:\\layout\\activity_main.xml"
+    }
+]

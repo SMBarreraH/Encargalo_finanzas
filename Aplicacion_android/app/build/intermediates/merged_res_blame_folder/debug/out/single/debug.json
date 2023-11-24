@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-merged_res-36:\\layout_activity_amortizacion.xml.flat",
+        "source": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-main-38:\\layout\\activity_amortizacion.xml"
+    },
+    {
+        "merged": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-merged_res-36:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-main-38:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-merged_res-36:\\layout_activity_personal.xml.flat",
+        "source": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-main-38:\\layout\\activity_personal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-merged_res-36:\\layout_activity_plantilla_financiera.xml.flat",
+        "source": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-main-38:\\layout\\activity_plantilla_financiera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-merged_res-36:\\drawable_rounded_button.xml.flat",
+        "source": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-main-38:\\drawable\\rounded_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-merged_res-36:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-main-38:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-merged_res-36:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-main-38:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-merged_res-36:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-main-38:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-merged_res-36:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-main-38:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-merged_res-36:\\layout_activity_registrar_negocio.xml.flat",
+        "source": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-main-38:\\layout\\activity_registrar_negocio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-merged_res-36:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-main-38:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-merged_res-36:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-main-38:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-merged_res-36:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-main-38:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-merged_res-36:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-main-38:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-merged_res-36:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-main-38:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.encargalofinanzas.app-merged_res-36:/layout_activity_gastos_indirectos.xml.flat",
+        "source": "com.example.encargalofinanzas.app-main-38:/layout/activity_gastos_indirectos.xml"
+    },
+    {
+        "merged": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-merged_res-36:\\drawable_is_imglogo.png.flat",
+        "source": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-main-38:\\drawable\\is_imglogo.png"
+    },
+    {
+        "merged": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-merged_res-36:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-main-38:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-merged_res-36:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-main-38:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-merged_res-36:\\layout_activity_costos.xml.flat",
+        "source": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-main-38:\\layout\\activity_costos.xml"
+    },
+    {
+        "merged": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-merged_res-36:\\layout_activity_depreciacion.xml.flat",
+        "source": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-main-38:\\layout\\activity_depreciacion.xml"
+    },
+    {
+        "merged": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-merged_res-36:\\layout_activity_productos.xml.flat",
+        "source": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-main-38:\\layout\\activity_productos.xml"
+    },
+    {
+        "merged": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-merged_res-36:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-main-38:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-merged_res-36:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-main-38:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-merged_res-36:\\layout_activity_gastospersonales.xml.flat",
+        "source": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-main-38:\\layout\\activity_gastospersonales.xml"
+    },
+    {
+        "merged": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-merged_res-36:\\layout_fragment_listado_productos.xml.flat",
+        "source": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-main-38:\\layout\\fragment_listado_productos.xml"
+    },
+    {
+        "merged": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-merged_res-36:\\layout_fragment_fragm_materia_prima.xml.flat",
+        "source": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-main-38:\\layout\\fragment_fragm_materia_prima.xml"
+    },
+    {
+        "merged": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-merged_res-36:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-main-38:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-merged_res-36:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-main-38:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-merged_res-36:\\layout_fragment_mano_de_obra.xml.flat",
+        "source": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-main-38:\\layout\\fragment_mano_de_obra.xml"
+    },
+    {
+        "merged": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-merged_res-36:\\layout_activity_gastos_indirectos.xml.flat",
+        "source": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-main-38:\\layout\\activity_gastos_indirectos.xml"
+    },
+    {
+        "merged": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-merged_res-36:\\layout_activity_gastos_personales.xml.flat",
+        "source": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-main-38:\\layout\\activity_gastos_personales.xml"
+    },
+    {
+        "merged": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-merged_res-36:\\layout_activity_manufactura.xml.flat",
+        "source": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-main-38:\\layout\\activity_manufactura.xml"
+    },
+    {
+        "merged": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-merged_res-36:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Msi\\.gradle\\daemon\\8.0\\com.example.encargalofinanzas.app-main-38:\\mipmap-hdpi\\ic_launcher_round.webp"
+    }
+]
