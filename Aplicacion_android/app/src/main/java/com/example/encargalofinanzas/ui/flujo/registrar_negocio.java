@@ -6,7 +6,6 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 
-import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.Fragment;
 import androidx.navigation.Navigation;
 
@@ -29,8 +28,6 @@ public class registrar_negocio extends Fragment {
             }
         });
 
-
-
-
+        return view;
     }
 }

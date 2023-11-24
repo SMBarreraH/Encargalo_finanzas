@@ -1,31 +1,40 @@
 package com.example.encargalofinanzas.ui.flujo;
 
-import androidx.appcompat.app.AppCompatActivity;
-
-import android.content.Intent;
 import android.os.Bundle;
-import android.view.View;
-import android.widget.Button;
+
+import androidx.appcompat.app.ActionBar;
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.navigation.NavController;
+import androidx.navigation.fragment.NavHostFragment;
+import androidx.navigation.ui.AppBarConfiguration;
+import androidx.navigation.ui.NavigationUI;
 
 import com.example.encargalofinanzas.R;
-import com.example.encargalofinanzas.ui.flujo.plantilla_financiera;
 
 public class MainActivity extends AppCompatActivity {
 
-    Button btniniciar_sesion;
+    private NavController navController;
+
+    private AppBarConfiguration appBarConfiguration;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        btniniciar_sesion=(Button)findViewById(R.id.btn_inicio_sesion);
-        btniniciar_sesion.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Intent intent = new Intent(view.getContext(), plantilla_financiera.class);
-                startActivity(intent);
-            }
-        });
+        // Obtén una referencia al NavController del NavHostFragment
+        NavHostFragment navHostFragment = (NavHostFragment) getSupportFragmentManager()
+                .findFragmentById(R.id.fragmentContainerView3);
+        navController = navHostFragment.getNavController();
+
+        appBarConfiguration = new AppBarConfiguration.Builder(R.id.fragmentContainerView3, R.id.nav_plantilla_financiera)
+                .build();
+
+        ActionBar actionBar = getSupportActionBar();
+
+        if (actionBar != null) {
+            NavigationUI.setupActionBarWithNavController(this, navController, appBarConfiguration);
+        }
     }
+
 }

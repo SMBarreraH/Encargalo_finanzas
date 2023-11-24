@@ -1,15 +1,13 @@
 package com.example.encargalofinanzas.ui.flujo;
 
-import androidx.appcompat.app.AppCompatActivity;
-import androidx.fragment.app.Fragment;
-import androidx.navigation.Navigation;
-
-import android.content.Intent;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
+
+import androidx.fragment.app.Fragment;
+import androidx.navigation.Navigation;
 
 import com.example.encargalofinanzas.R;
 
@@ -27,8 +25,8 @@ public class plantilla_financiera extends Fragment {
                              Bundle savedInstanceState) {
 
 
-        View view=inflater.inflate(R.layout.activity_plantilla_financiera, container, false);
-        btn_personal=view.findViewById(R.id.btn_personal);
+        View rootview =inflater.inflate(R.layout.activity_plantilla_financiera, container, false);
+        btn_personal=rootview.findViewById(R.id.btn_personal);
         btn_personal.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -36,21 +34,21 @@ public class plantilla_financiera extends Fragment {
             }
         });
 
-        btn_negocio=view.findViewById(R.id.btn_negocio);
+        btn_negocio=rootview.findViewById(R.id.btn_negocio);
         btn_negocio.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 Navigation.findNavController(view).navigate(R.id.action_nav_mi_flujo_to_registrar_negocio);
             }
         });
-        btn_costos=view.findViewById(R.id.btn_costos);
+        btn_costos=rootview.findViewById(R.id.btn_costos);
         btn_costos.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 Navigation.findNavController(view).navigate(R.id.action_nav_mi_flujo_to_costos);
             }
         });
-        btn_manufacturas=view.findViewById(R.id.btn_manufacturas);
+        btn_manufacturas=rootview.findViewById(R.id.btn_manufacturas);
         btn_manufacturas.setOnClickListener(new View.OnClickListener()
         {
             @Override
@@ -58,6 +56,6 @@ public class plantilla_financiera extends Fragment {
                 Navigation.findNavController(view).navigate(R.id.action_nav_mi_flujo_to_manufactura);
             }
         });
-        return view;
+        return rootview;
     }
 }
